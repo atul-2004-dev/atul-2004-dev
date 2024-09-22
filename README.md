@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Nextjs,Typescript**
 
-- 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atul-2004-dev](https://github.com/atul-2004-dev)
 
