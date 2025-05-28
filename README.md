@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Nextjs,Typescript**
+- 🌱 I’m currently learning **React,MERN**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/atul-2004-dev](https://github.com/atul-2004-dev)
