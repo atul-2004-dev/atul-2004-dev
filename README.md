@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/atul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atul" height="30" width="40" /></a>
 <a href="https://twitter.com/atul_st007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul_st007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atul-choudhary007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atul_ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atul_ch" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atulchoud2m9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atulchoud2m9f" height="30" width="40" /></a>
 </p>
