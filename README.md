@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atul-2004-dev](https://github.com/atul-2004-dev)
 
-- 💬 Ask me about **Html,CSS,Javascript,React,Tailwind,Nodej,MongoDBs**
+- 💬 Ask me about **Html,CSS,Javascript,React,Tailwind,Nodej,MongoDB**
 
 - 📫 How to reach me **atulchoudhary2004@gmail.com**
 
